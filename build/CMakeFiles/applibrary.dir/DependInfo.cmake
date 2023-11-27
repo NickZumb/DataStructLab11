@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/mnt/c/GitRepos/DataStructures/Lab02/StackQueue.cpp" "CMakeFiles/applibrary.dir/StackQueue.cpp.o" "gcc" "CMakeFiles/applibrary.dir/StackQueue.cpp.o.d"
+  "/mnt/c/GitRepos/DataStructures/DataStructLab11/StackQueue.cpp" "CMakeFiles/applibrary.dir/StackQueue.cpp.o" "gcc" "CMakeFiles/applibrary.dir/StackQueue.cpp.o.d"
   )
 
 # Targets to which this target links.

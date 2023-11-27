@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/mnt/c/GitRepos/DataStructures/Lab02/build"
+			"value" : "/mnt/c/GitRepos/DataStructures/DataStructLab11/build"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -615,7 +615,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/mnt/c/GitRepos/DataStructures/Lab02"
+			"value" : "/mnt/c/GitRepos/DataStructures/DataStructLab11"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1187,7 +1187,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/mnt/c/GitRepos/DataStructures/Lab02/build"
+			"value" : "/mnt/c/GitRepos/DataStructures/DataStructLab11/build"
 		},
 		{
 			"name" : "Lab02_IS_TOP_LEVEL",
@@ -1211,7 +1211,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/mnt/c/GitRepos/DataStructures/Lab02"
+			"value" : "/mnt/c/GitRepos/DataStructures/DataStructLab11"
 		}
 	],
 	"kind" : "cache",

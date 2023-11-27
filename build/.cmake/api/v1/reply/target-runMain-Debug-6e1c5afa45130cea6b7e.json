@@ -2,7 +2,7 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "runTests"
+			"path" : "runMain"
 		}
 	],
 	"backtrace" : 1,
@@ -26,13 +26,13 @@
 			{
 				"command" : 0,
 				"file" : 0,
-				"line" : 13,
+				"line" : 16,
 				"parent" : 0
 			},
 			{
 				"command" : 1,
 				"file" : 0,
-				"line" : 14,
+				"line" : 17,
 				"parent" : 0
 			},
 			{
@@ -54,10 +54,6 @@
 				{
 					"backtrace" : 3,
 					"fragment" : "-std=c++17"
-				},
-				{
-					"backtrace" : 2,
-					"fragment" : "-DGTEST_HAS_PTHREAD=1"
 				}
 			],
 			"language" : "CXX",
@@ -74,7 +70,7 @@
 			"id" : "applibrary::@6890427a1f51a3e7e1df"
 		}
 	],
-	"id" : "runTests::@6890427a1f51a3e7e1df",
+	"id" : "runMain::@6890427a1f51a3e7e1df",
 	"link" : 
 	{
 		"commandFragments" : 
@@ -88,17 +84,7 @@
 				"role" : "flags"
 			},
 			{
-				"fragment" : "-Wl,-rpath,/mnt/c/GitRepos/DataStructures/Lab02/build",
-				"role" : "libraries"
-			},
-			{
-				"backtrace" : 2,
-				"fragment" : "/usr/lib/x86_64-linux-gnu/libgtest.a",
-				"role" : "libraries"
-			},
-			{
-				"backtrace" : 2,
-				"fragment" : "-lpthread",
+				"fragment" : "-Wl,-rpath,/mnt/c/GitRepos/DataStructures/DataStructLab11/build",
 				"role" : "libraries"
 			},
 			{
@@ -109,8 +95,8 @@
 		],
 		"language" : "CXX"
 	},
-	"name" : "runTests",
-	"nameOnDisk" : "runTests",
+	"name" : "runMain",
+	"nameOnDisk" : "runMain",
 	"paths" : 
 	{
 		"build" : ".",
@@ -131,7 +117,7 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "tests.cpp",
+			"path" : "main.cpp",
 			"sourceGroupIndex" : 0
 		}
 	],

@@ -50,14 +50,14 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "runMain::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-runMain-Debug-3da3ea3a850aee313c98.json",
+					"jsonFile" : "target-runMain-Debug-6e1c5afa45130cea6b7e.json",
 					"name" : "runMain",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
 					"id" : "runTests::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-runTests-Debug-020a37b351c5490c4261.json",
+					"jsonFile" : "target-runTests-Debug-4b59a3507db1818d3a6f.json",
 					"name" : "runTests",
 					"projectIndex" : 0
 				}
@@ -67,8 +67,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/mnt/c/GitRepos/DataStructures/Lab02/build",
-		"source" : "/mnt/c/GitRepos/DataStructures/Lab02"
+		"build" : "/mnt/c/GitRepos/DataStructures/DataStructLab11/build",
+		"source" : "/mnt/c/GitRepos/DataStructures/DataStructLab11"
 	},
 	"version" : 
 	{

@@ -824,8 +824,8 @@
 	"kind" : "cmakeFiles",
 	"paths" : 
 	{
-		"build" : "/mnt/c/GitRepos/DataStructures/Lab02/build",
-		"source" : "/mnt/c/GitRepos/DataStructures/Lab02"
+		"build" : "/mnt/c/GitRepos/DataStructures/DataStructLab11/build",
+		"source" : "/mnt/c/GitRepos/DataStructures/DataStructLab11"
 	},
 	"version" : 
 	{

@@ -1,17 +1,17 @@
 [
 {
-  "directory": "/mnt/c/GitRepos/DataStructures/Lab02/build",
-  "command": "/usr/bin/g++ -Dapplibrary_EXPORTS  -g -fPIC -std=c++17 -o CMakeFiles/applibrary.dir/StackQueue.cpp.o -c /mnt/c/GitRepos/DataStructures/Lab02/StackQueue.cpp",
-  "file": "/mnt/c/GitRepos/DataStructures/Lab02/StackQueue.cpp"
+  "directory": "/mnt/c/GitRepos/DataStructures/DataStructLab11/build",
+  "command": "/usr/bin/g++ -Dapplibrary_EXPORTS  -g -fPIC -std=c++17 -o CMakeFiles/applibrary.dir/StackQueue.cpp.o -c /mnt/c/GitRepos/DataStructures/DataStructLab11/StackQueue.cpp",
+  "file": "/mnt/c/GitRepos/DataStructures/DataStructLab11/StackQueue.cpp"
 },
 {
-  "directory": "/mnt/c/GitRepos/DataStructures/Lab02/build",
-  "command": "/usr/bin/g++   -g -std=c++17 -DGTEST_HAS_PTHREAD=1 -o CMakeFiles/runTests.dir/tests.cpp.o -c /mnt/c/GitRepos/DataStructures/Lab02/tests.cpp",
-  "file": "/mnt/c/GitRepos/DataStructures/Lab02/tests.cpp"
+  "directory": "/mnt/c/GitRepos/DataStructures/DataStructLab11/build",
+  "command": "/usr/bin/g++   -g -std=c++17 -DGTEST_HAS_PTHREAD=1 -o CMakeFiles/runTests.dir/tests.cpp.o -c /mnt/c/GitRepos/DataStructures/DataStructLab11/tests.cpp",
+  "file": "/mnt/c/GitRepos/DataStructures/DataStructLab11/tests.cpp"
 },
 {
-  "directory": "/mnt/c/GitRepos/DataStructures/Lab02/build",
-  "command": "/usr/bin/g++   -g -std=c++17 -o CMakeFiles/runMain.dir/main.cpp.o -c /mnt/c/GitRepos/DataStructures/Lab02/main.cpp",
-  "file": "/mnt/c/GitRepos/DataStructures/Lab02/main.cpp"
+  "directory": "/mnt/c/GitRepos/DataStructures/DataStructLab11/build",
+  "command": "/usr/bin/g++   -g -std=c++17 -o CMakeFiles/runMain.dir/main.cpp.o -c /mnt/c/GitRepos/DataStructures/DataStructLab11/main.cpp",
+  "file": "/mnt/c/GitRepos/DataStructures/DataStructLab11/main.cpp"
 }
 ]
