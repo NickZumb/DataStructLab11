@@ -1,6 +1,6 @@
 # Lab11
 
-## Objective: LOL MERGE CONFLICTS
+## Objective: Check Out git and github, ignore everything else after this
 The objective of this Lab is to examine array based stacks and queues built using C++.  We are going to create a stack and a queue to be used in the Towers of Hanoi game.
 
 Read the introduction to the game at https://en.wikipedia.org/wiki/Tower_of_Hanoi.
